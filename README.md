@@ -1,5 +1,8 @@
 # AI-Based Medical Device Manufacturing Defect Prediction
 
+![Application Demo](screenshots/app_normal_case.png)
+
+
 ## Overview
 
 This project develops an Artificial Intelligence system for predicting potential manufacturing defects in medical devices using machine learning techniques.
